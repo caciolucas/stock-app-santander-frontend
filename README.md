@@ -1,27 +1,19 @@
-# Homebroker
+# Santander Dev Week - Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+Frontend for an web application built using Angular version 12.0.1 at [Santander Dev Week](https://digitalinnovation.one/santander-dev-week-fullstack-developer).
 
-## Development server
+You can run `ng serve` for a local dev server. Navigate to `http://localhost:4200/` and `http://localhost:4200/dashboard`. The app will automatically reload if you change any of the source files.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project is also running in a github page, check it [here](https://caciolucas.github.io/stock-app-santander-frontend/dashboard)
 
-## Code scaffolding
+You can also insert some stocks to see the dashboard with more cards [here](https://stock-dio-santander.herokuapp.com/bootcamp/swagger-ui.html).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+That's the [backend repository](https://github.com/caciolucas/sotck-app-santander-backend)
+___
+## Technologies used
 
-## Build
+### Frontend
+![Angular Logo in a shields.io badge](https://img.shields.io/badge/Angular-gray.svg?logo=angular&style=for-the-badge&color=E23237&logoColor=white)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Deployed
+[![Github Logo in a shields.io badge](https://img.shields.io/badge/Github%20Pages-gray.svg?logo=github&style=for-the-badge&color=181717&logoColor=white)](https://stock-dio-santander.herokuapp.com/bootcamp/stock/)
